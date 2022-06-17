@@ -1,0 +1,2 @@
+# Tool_for_Making_Match_Combination
+スイスドロー方式で、対戦組み合わせを抽選するためのツールです
